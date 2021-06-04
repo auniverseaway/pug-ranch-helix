@@ -1,3 +1,5 @@
 .marquee {
   max-width: 100%;
+  background-color: #676767;
+  padding: 60px;
 }
